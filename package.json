@@ -1,0 +1,22 @@
+{
+  "name": "css-01",
+  "version": "1.0.0",
+  "description": "Learning css project 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhibhaw/learning.git"
+  },
+  "author": "Abhibhaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhibhaw/learning/issues"
+  },
+  "homepage": "https://github.com/abhibhaw/learning#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
